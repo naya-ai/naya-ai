@@ -1,5 +1,5 @@
 <h2> Hi, I'm Shawnaya Williams!
-<img align='right' src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="200">
 </em></p>
 
 [![Linkedin: shawnayawilliams](https://img.shields.io/badge/-shawnayawilliams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawnaya-williams/)](https://www.linkedin.com/in/shawnaya-williams/)
@@ -19,5 +19,9 @@ const shawnaya = {
           },
 }
 ```
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
 
   
