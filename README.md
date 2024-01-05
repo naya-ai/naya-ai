@@ -3,7 +3,7 @@
 
 [![Linkedin: shawnayawilliams](https://img.shields.io/badge/-shawnayawilliams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawnaya-williams/)](https://www.linkedin.com/in/shawnaya-williams/)
 
-### <img src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="50"> A little more about me...  
+<img align='right' src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="230">
 
 ```javascript
 const thai = {
