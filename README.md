@@ -10,7 +10,7 @@
 ```javascript
 const shawnaya = {
   pronouns: "she" | "her",
-  code: [C++, C, Java, React.js, Python, R],
+  code: [C++, C, Java, Javascript, Python, R],
   tools: [Git/GitHub, Linx, AWS, RStudio, Jupyter Notebook, Visual Studio Code, Docker],
   aboutMe: { Currently, I'm a honor student at Texas Southern University 🐅 pursuing a B.S. in Computer Science 👩🏾‍💻.
              I am determined to grow 🌱 and learn through networking and real-world 🌎experiences.
