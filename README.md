@@ -8,7 +8,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const shawnaya = {
+const naya = {
   pronouns: "she" | "her",
   code: [C++, C, Java, Javascript, Python, R],
   tools: [Git/GitHub, Linx, AWS, RStudio, Jupyter Notebook, Visual Studio Code, Docker],
