@@ -1,4 +1,4 @@
-<h2> Hi, I'm Shawnaya Williams!
+<h2> Hi, I'm Naya!
 <img align='right' src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="200">
 </em></p>
 
