@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fce4ec,100:f8bbd0&height=140&section=header&text=SHAWNAYA%20WILLIAMS&fontSize=40&fontColor=ad1457&fontAlignY=65&desc=software%20engineer%20%E2%80%A2%20ibm&descSize=14&descAlignY=85&descFontColor=c2185b" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fce4ec,100:f8bbd0&height=140&section=header&text=SHAWNAYA%20WILLIAMS&fontSize=40&fontColor=ad1457&fontAlignY=65&desc=software%20developer%20%E2%80%A2%20ibm&descSize=14&descAlignY=85&descFontColor=c2185b" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🌸 &nbsp; `she/her` &nbsp; · &nbsp; `software engineer @ IBM` &nbsp; · &nbsp; `houston → round rock` &nbsp; &nbsp; 🌸
+🌸 &nbsp; `she/her` &nbsp; · &nbsp; `software developer @ IBM` &nbsp; · &nbsp; `houston → round rock` &nbsp; &nbsp; 🌸
 
 <br/>
 
@@ -30,8 +30,8 @@
   🎓  B.S. Computer Science — Texas Southern University
        Magna Cum Laude · Thomas Freeman Honors College Scholar
 
-  💼  Software Engineer @ IBM
-       Go-based authorization microservices
+  💼  Software Developer @ IBM
+       Java/Go-based authorization microservices
 
   🌱  interested in: AI · hardware · systems · the intersection of all three
 ```
