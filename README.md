@@ -73,11 +73,12 @@
 
 | 🌸 | role | company |
 |:--:|:-----|:--------|
-| ✦ | Software Engineer | IBM |
-| ✦ | Software Engineering Intern | NASA Johnson Space Center |
-| ✦ | Software Engineering Intern | Northrop Grumman |
-| ✦ | Software Engineering Intern | Logitech |
-| ✦ | Software Engineering Intern | HCSS |
+| ✦ | Software Developer | IBM |
+| ✦ | Software Developer Intern | IBM |
+| ✦ | Software Developer Intern | HCSS |
+| ✦ | Wireless Networks Engineering Intern | NASA Johnson Space Center |
+| ✦ | Audio Engineering Intern | Logitech |
+| ✦ | Technical Intern | Northrop Grumman |
 
 </div>
 
