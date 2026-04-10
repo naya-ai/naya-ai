@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🌸 &nbsp; `she/her` &nbsp; · &nbsp; `software developer @ IBM` &nbsp; · &nbsp; `houston → round rock` &nbsp; &nbsp; 🌸
+🌸 &nbsp; `she/her` &nbsp; · &nbsp; `software developer @ IBM` &nbsp; 🌸
 
 <br/>
 
