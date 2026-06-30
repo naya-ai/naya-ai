@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fce4ec,100:f8bbd0&height=140&section=header&text=SHAWNAYA%20WILLIAMS&fontSize=40&fontColor=ad1457&fontAlignY=65&desc=software%20developer%20%E2%80%A2%20ibm&descSize=14&descAlignY=85&descFontColor=c2185b" width="100%"/>
 
 </div>
 
@@ -10,11 +9,7 @@
 
 🌸 &nbsp; `she/her` &nbsp; · &nbsp; `software developer @ IBM` &nbsp; 🌸
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%40shawnaya--williams-fce4ec?style=flat-square&logo=linkedin&logoColor=ad1457&labelColor=fce4ec)](https://www.linkedin.com/in/shawnaya-williams/)
-[![Portfolio](https://img.shields.io/badge/portfolio-shawnayawilliams.com-fce4ec?style=flat-square&logo=safari&logoColor=ad1457&labelColor=fce4ec)](https://shawnayawilliams.com)
-[![GitHub](https://img.shields.io/badge/github-naya--ai-fce4ec?style=flat-square&logo=github&logoColor=ad1457&labelColor=fce4ec)](https://github.com/naya-ai)
 
 </div>
 
